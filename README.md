@@ -41,7 +41,7 @@ Proje boyunca aşağıdaki derin öğrenme teknikleri ve kütüphaneleri kullan�
 Yapılan hiperparametre optimizasyonu sonucunda, daha derin olan `model_v2`'nin temel modele göre daha yüksek bir başarım sergilediği gözlemlenmiştir.
 
 * **En İyi Model:** `model_v2` (Daha Derin CNN Mimarisi)
-* **Test Seti Başarısı (Accuracy):** **[Buraya Hücre 10'daki v2 modelinin Test Accuracy sonucunu yazın, örn: %XX.XX]**
+* **Test Seti Başarısı (Accuracy):** **[92.20%]**
 
 Grad-CAM analizi, modelin sınıflandırma yaparken büyük ölçüde kelebeklerin kanat desenleri gibi ayırt edici özelliklere odaklandığını göstermiştir.
 
@@ -49,4 +49,5 @@ Grad-CAM analizi, modelin sınıflandırma yaparken büyük ölçüde kelebekler
 
 Projenin tüm kodlarını, analizleri ve çıktılarını içeren Kaggle notebook'una aşağıdaki linkten ulaşabilirsiniz:
 
-* **[# akbank-deep-learning-butterfly-project](https://www.kaggle.com/code/yarencelikkk/akbank-bootcamp-kelebek-siniflandirma-projesi)]**
+* **[https://www.kaggle.com/code/yarencelikkk/akbank-bootcamp-kelebeksiniflandirmaprojesi]**
+* **[https://www.kaggle.com/datasets/gpiosenka/butterfly-images40-species]**
